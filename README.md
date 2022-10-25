@@ -23,6 +23,7 @@ Here are some plugin managers :
 ## Usage
 
 Just assign `zenith.toggle()` to a keymap and press this keymap.
+
 _e.g._ `vim.keymap.set("n", "<leader>z", require("zenith").toggle)`
 
 ## Configuration
